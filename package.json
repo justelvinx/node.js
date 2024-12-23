@@ -1,11 +1,11 @@
 {
-  "name": "your-project",
+  "name": "node.js",
   "version": "1.0.0",
   "scripts": {
     "test": "echo 'No tests yet!' && exit 0"
   },
   "dependencies": {
-    // your dependencies here
+    "express": "^4.17.1"
   }
 }
 
