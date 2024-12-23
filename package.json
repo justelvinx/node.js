@@ -1,4 +1,11 @@
-"scripts": {
-  "test": "echo '11111No tests yet!' && exit 0"
+{
+  "name": "your-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'No tests yet!' && exit 0"
+  },
+  "dependencies": {
+    // your dependencies here
+  }
 }
 
